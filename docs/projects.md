@@ -1,7 +1,7 @@
 ---
 title: "Managing Projects"
 layout: single
-permalink: /docs/project
+permalink: /docs/projects
 sidebar:
   nav: "docs"
 ---
