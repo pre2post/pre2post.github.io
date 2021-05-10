@@ -1,7 +1,43 @@
 main:
-  - title: "User Guide"
-    url: /docs/user-guide/
+  - title: "Documentation"
+    url: /docs/
   - title: "Contact Us"
     url: /contact/
   - title: "About"
     url: /about/
+
+docs:
+  - title: Projects
+    children:
+      - title: "Create Project"
+        url: /docs/projects#create-project
+      - title: "Import Project"
+        url: /docs/projects#import-project
+      - title: "Characters"
+        url: /docs/projects#characters
+      - title: "Locations"
+        url: /docs/projects#locations
+      - title: "Crew"
+        url: /docs/projects#crew
+      - title: "Delete Project"
+        url: /docs/projects#delete-project
+  - title: Scenes
+    children:
+      - title: "Text"
+        url: /docs/scenes#text
+      - title: "Set Ups"
+        url: /docs/scenes#set-ups
+      - title: "Coverage"
+        url: /docs/scenes#coverage
+  - title: Set Ups
+    children:
+      - title: "Create Set Up"
+        url: /docs/setups#create-set-up
+      - title: "Delete Set Up"
+        url: /docs/setups#delete-set-up
+  - title: Takes
+    children:
+      - title: "Document Take"
+        url: /docs/takes#document-take
+      - title: "Delete Take"
+        url: /docs/takes#delete-take
