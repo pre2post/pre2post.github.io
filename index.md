@@ -12,7 +12,7 @@ header:
       url: "https://play.google.com/store/apps"
 excerpt: "Plan scene set-ups, track takes and provide reports for your editor."
 feature_row:
-  - image_path: /assets/images/splash.jpg
+  - image_path: /assets/images/splash.png
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."

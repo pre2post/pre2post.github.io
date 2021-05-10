@@ -1,0 +1,7 @@
+main:
+  - title: "User Guide"
+    url: /docs/user-guide/
+  - title: "Contact Us"
+    url: /contact/
+  - title: "About"
+    url: /about/
