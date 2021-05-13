@@ -29,6 +29,8 @@ feature_row:
 ---
 
 **THIS SITE IS CURRENTLY UNDER CONSTRUCTION**
+{: .text-center}
+{: .notice--danger}
 
 {% include feature_row id="intro" type="center" %}
 

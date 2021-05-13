@@ -1,5 +1,5 @@
 ---
-title: "Managing Projects"
+title: "Projects Page"
 layout: single
 permalink: /docs/projects
 sidebar:
@@ -10,6 +10,9 @@ sidebar:
 
 This is the information about creating a project.
 
+## Import Project
+
+## Share Project
 
 ## Delete Project
 
