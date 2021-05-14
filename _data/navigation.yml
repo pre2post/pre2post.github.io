@@ -7,7 +7,7 @@ main:
     url: /about/
 
 docs:
-  - title: Projects
+  - title: Projects Page
     children:
       - title: "Create Project"
         url: /docs/projects#create-project
@@ -17,7 +17,7 @@ docs:
         url: /docs/projects#share-project
       - title: "Delete Project"
         url: /docs/projects#delete-project
-  - title: Project
+  - title: Project Page
     children:
       - title: "Scenes"
         url: /docs/project#scenes
@@ -27,7 +27,7 @@ docs:
         url: /docs/project#locations
       - title: "Crew"
         url: /docs/project#crew
-  - title: Scene
+  - title: Scene Page
     children:
       - title: "Text"
         url: /docs/scene#text
@@ -35,7 +35,7 @@ docs:
         url: /docs/scene#set-ups
       - title: "Coverage"
         url: /docs/scene#coverage
-  - title: Set Up
+  - title: Set Up Page
     children:
       - title: "Overview of Takes"
         url: /docs/setup#overview-of-takes

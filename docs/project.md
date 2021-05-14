@@ -8,8 +8,15 @@ sidebar:
 
 ## Scenes
 
+### Send a Scene Report
+
 ## Characters
 
+
+## Character Alias
+
 ## Locations
+
+## Location Alias
 
 ## Crew
