@@ -53,4 +53,4 @@ In preparation for shoot day, the [project should be shared](/docs/projects#shar
 
 * Send the Editor a Scene Report
 
-Finally, once a scene has been completed, the 2nd AC can [send a scene report](/docs/project#send-a-scene-report) to the editor so they have an overview of the information about each take.
+Finally, once a scene has been completed, the 2nd AC can [send a scene report](/docs/project#send-a-scene-report) to the editor. This report includes an overview of the scene coverage (related to each set up), and for each set up, the list of takes (with their details).
