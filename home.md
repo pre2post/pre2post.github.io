@@ -21,13 +21,13 @@ feature_row:
   - image_path: /assets/images/take.png
     title: "Shoot"
     excerpt: "The 2nd AC can document the **Takes** for each scene, optionally using the app to **announce the take**, **simulate the clapperboard** and **capture approvals** from various departments."
-    url: "http://localhost:4000/docs/scene#document-takes"
+    url: "/docs/scene#document-takes"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/edit.png
     title: "Edit"
     excerpt: "When a scene has been completed, a **scene report** can be generated for use by the editor. The report includes details and coverage for each set-up, and details of each Take (including approvals if defined)."
-    url: "http://localhost:4000/docs/project#send-a-scene-report"
+    url: "/docs/project#send-a-scene-report"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
