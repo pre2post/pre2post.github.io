@@ -1,0 +1,45 @@
+main:
+  - title: "Documentation"
+    url: /docs/
+  - title: "Contact Us"
+    url: /contact/
+  - title: "About"
+    url: /about/
+
+docs:
+  - title: Projects Page
+    children:
+      - title: "Create Project"
+        url: /docs/projects#create-project
+      - title: "Import Project"
+        url: /docs/projects#import-project
+      - title: "Share Project"
+        url: /docs/projects#share-project
+      - title: "Delete Project"
+        url: /docs/projects#delete-project
+  - title: Project Page
+    children:
+      - title: "Scenes"
+        url: /docs/project#scenes
+      - title: "Characters"
+        url: /docs/project#characters
+      - title: "Locations"
+        url: /docs/project#locations
+      - title: "Crew"
+        url: /docs/project#crew
+  - title: Scene Page
+    children:
+      - title: "Text"
+        url: /docs/scene#text
+      - title: "Set Ups"
+        url: /docs/scene#set-ups
+      - title: "Coverage"
+        url: /docs/scene#coverage
+  - title: Set Up Page
+    children:
+      - title: "Overview of Takes"
+        url: /docs/setup#overview-of-takes
+      - title: "Document Take"
+        url: /docs/setup#document-take
+      - title: "Edit Take"
+        url: /docs/setup#edit-take
