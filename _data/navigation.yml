@@ -9,6 +9,8 @@ main:
 docs:
   - title: Projects Page
     children:
+      - title: "Overview"
+        url: /docs/projects#overview
       - title: "Create Project"
         url: /docs/projects#create-project
       - title: "Import Project"
@@ -19,6 +21,8 @@ docs:
         url: /docs/projects#delete-project
   - title: Project Page
     children:
+      - title: "Overview"
+        url: /docs/project#overview
       - title: "Scenes"
         url: /docs/project#scenes
       - title: "Characters"

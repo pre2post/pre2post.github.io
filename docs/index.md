@@ -16,9 +16,9 @@ Pre2Post is a mobile app (currently just for Android) that can be used to help w
 * **Generating a Scene report** that can be emailed to your Editor
 
 Pre2Post is currently a single-user application, and therefore does not enable multiple users to collaborate on the same project. Although this may be added in a
-future versions, the application does enable projects to be exchanged between users.
+future version, the application does enable projects to be exchanged between users.
 
-### Project workflow
+### A suggested workflow
 
 * Creating the project
 

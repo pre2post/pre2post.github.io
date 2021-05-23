@@ -32,10 +32,6 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
-**THIS SITE IS CURRENTLY UNDER CONSTRUCTION**
-{: .text-center}
-{: .notice--danger}
-
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
