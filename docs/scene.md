@@ -26,56 +26,36 @@ The _Text_ tab provides the scene text, showing the location, whether interior/e
 
 ## Set-Ups
 
+A `Set Up` represents a particular configuration of the lighting and camera equipment within a location for recording a scene.
+
+When initially selecting the tab for a scene, there will be no set ups defined:
+
 ![](/assets/images/scene-setups-none.png)
 
-
-![](/assets/images/scene-setups.png)
-
-
-### Create
+Selecting the `+` button at the bottom right of the page will open a dialog to add a new set up:
 
 ![](/assets/images/scene-setup-add.png)
 
+The Scene number will be displayed at the top of the page, along with the set up name. If the first setup for the scene, then the name will be blank. However subsequent setups will have a letter which will automatically be incremented for each new setup.
 
-### Edit
+The `Shot Type` and `Camera Motion` are mandatory fields that need to be specified.
 
-### Document Takes
+The `Shot Start` and `Shot End` fields are optionally. If not defined, then the set up will cover the complete scene - otherwise a portion of the scene can be specified. For long scenes, this can be useful in identifying only parts of the scene that need to be recorded with a particular configuration (i.e. set up).
 
-At the appropriate time (i.e. when on set), and the set up has been established, it is
-possible to document the takes recorded for the set up. For more information see
-section............
+Finally, there is an optional `Details` field that can be used to elaborate more on the Director of Photography's (DoP's) vision.
 
+Once the set ups have been created, they will be summarised in the set ups list:
 
+![](/assets/images/scene-setups.png)
 
-
-![](/assets/images/takes-add-no-approval.png)
-
-![](/assets/images/takes-add-with-approval.png)
-
-![](/assets/images/takes-clapperboard.png)
-
-![](/assets/images/takes-counter.png)
-
-![](/assets/images/takes-list-1.png)
-
-![](/assets/images/takes-list-1-with-approval.png)
-
-![](/assets/images/takes-list-2.png)
-
-![](/assets/images/takes-none.png)
-
-![](/assets/images/takes-no-roll.png)
-
-![](/assets/images/takes-with-roll.png)
-
-
-
-
-
-
-### Delete
+The context menu associated with each list entry offers the ability to `Edit` and `Delete` the set ups.
 
 
 ## Coverage
 
+The _Coverage_ tab provides a visual representation of the set ups and which parts of the scene they cover.
+
 ![](/assets/images/scene-coverage.png)
+
+In the above example, the first two set ups (e.g. the default and `A`) extend over the whole scene, but `B` starts part way through.
+
