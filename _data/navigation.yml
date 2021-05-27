@@ -47,5 +47,5 @@ docs:
         url: /docs/setup#overview-of-takes
       - title: "Document Take"
         url: /docs/setup#document-take
-      - title: "Edit Take"
-        url: /docs/setup#edit-take
+      - title: "Using Approvals"
+        url: /docs/setup#using-approvals
