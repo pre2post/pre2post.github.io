@@ -32,11 +32,15 @@ At this stage, the take can be triggered in two ways.
 
 2) The app can be used to both announce the take, and then automatically provide a simulated clapperboard. This is triggered using the second _clapperboard with play_ button.
 
-The following image shows the type of information that will be displayed if the second button is pressed:
+The following image shows the type of information that will be displayed, while the Take is being announced, if the second button is pressed:
 
 ![](/assets/images/takes-clapperboard.png)
 
-Whichever button has been pressed, once Take has been triggered it will eventually (after clapperboard simulation in the second case) start a counter to track the duration of the Take:
+Once the announcement has been completed, the user can press the `PRESS TO MARK` button to trigger the simulated clapperboard:
+
+![](/assets/images/takes-clapperboard-2.png)
+
+Whichever `play` button has been pressed (with or without clapperboard), it will eventually start a counter to track the duration of the Take:
 
 ![](/assets/images/takes-counter.png)
 
