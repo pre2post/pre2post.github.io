@@ -36,9 +36,17 @@ The following image shows the type of information that will be displayed, while 
 
 ![](/assets/images/takes-clapperboard.png)
 
+(or on a tablet)
+
+![](/assets/images/takes-clapperboard-tablet.png)
+
 Once the announcement has been completed, the user can press the `PRESS TO MARK` button to trigger the simulated clapperboard:
 
 ![](/assets/images/takes-clapperboard-2.png)
+
+(or on a tablet)
+
+![](/assets/images/takes-clapperboard-2-tablet.png)
 
 Whichever `play` button has been pressed (with or without clapperboard), it will eventually start a counter to track the duration of the Take:
 
